@@ -36,25 +36,25 @@ Warp Charge 65W (10V/6.5A)
 	Pixel Size: 1.0 µm  
 	EIS: Yes  
 	Autofocus: Fixed Focus  
-	Aperture: f/2.4
+	Aperture: f/2.4  
 
 - Features
-	Face Unlock, HDR, Screen Flash, Face Retouching
+	Face Unlock, HDR, Screen Flash, Face Retouching  
 
 **Display**
 -   Parameters
-	Size: 6.55 inches (measured diagonally from corner to corner)
-	Resolution: 2400 x 1080 pixels 402 ppi
-	Aspect Ratio: 20:9
-	Type: 120 Hz Fluid AMOLED
-	Support sRGB, Display P3
-	Cover Glass: Corning® Gorilla® Glass
+	Size: 6.55 inches (measured diagonally from corner to corner)  
+	Resolution: 2400 x 1080 pixels 402 ppi  
+	Aspect Ratio: 20:9  
+	Type: 120 Hz Fluid AMOLED  
+	Support sRGB, Display P3  
+	Cover Glass: Corning® Gorilla® Glass  
 
 **Connectivity**
 - LTE/LTE-A
 	4×4 MIMO, Supports up to DL Cat 20/UL Cat 18 (2.0Gbps /200Mbps), depending on carrier support
 - Band
-	GSM: B2, 3, 5, 8  
+    GSM: B2, 3, 5, 8  
     WCDMA: B1, 2, 4, 5, 8, 9, 19  
     LTE-FDD: B1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 66  
     LTE-TDD: B34, 38, 39, 40, 41, 42  
