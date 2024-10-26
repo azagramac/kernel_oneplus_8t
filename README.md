@@ -3,7 +3,7 @@
 CPU: Qualcomm® Snapdragon™ 865  
 5G Chipset: X55  
 GPU: Adreno 650  
-RAM: 8GB/12GB LPDDR4X or LPDDR5
+RAM: 8GB/12GB LPDDR4X or LPDDR5  
 Storage: 128GB/256GB UFS 3.1 2-LANE  
 Battery: 4,500 mAh (2S1P 2,250 mAh, non-removable)  
 Warp Charge 65W (10V/6.5A)
